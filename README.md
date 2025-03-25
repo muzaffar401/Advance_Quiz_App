@@ -32,8 +32,8 @@ A **dynamic and interactive** Python quiz application built using **Streamlit**.
 
 ### 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/python-quiz-app.git
-cd python-quiz-app
+git clone https://github.com/muzaffar401/Advance_Quiz_App.git
+cd Advance_Quiz_App
 ```
 
 ### 2️⃣ **Create Virtual Environment**  
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ **Run the App**  
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ---
@@ -70,7 +70,7 @@ streamlit run app.py
 📂 python-quiz-app
 │── 📂 assets/           # Images & design assets
 │── 📂 data/             # Quiz questions JSON
-│── app.py               # Main Streamlit app
+│── main.py               # Main Streamlit app
 │── quiz_data.py         # Quiz questions logic
 │── requirements.txt     # Dependencies
 │── README.md            # Project documentation
@@ -120,5 +120,5 @@ This project is licensed under the **MIT License**.
 
 ## 🤝 Connect  
 
-💻 **GitHub:** [Your GitHub](https://github.com/your-username)  
-📧 **Email:** your-email@example.com  
+💻 **GitHub:** [Muzaffar Ahmed](https://github.com/muzaffar401)  
+📧 **Email:** ma9400667@gmail.com  
